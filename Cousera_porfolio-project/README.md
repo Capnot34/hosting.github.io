@@ -1,6 +1,6 @@
 # 🌿 Lucky Shrub Company Portfolio Project 🌿
 
-Hello, world! 🌍 Welcome to my portfolio project for the "My Portfolio Project on Coursera". This project is an insightful dive into the workings and offerings of a fictional shrub company. Dive in to explore the green world! 🌱🍃
+Hello, world! 🌍 Welcome to my portfolio project for the "My HTML and CSS Indept Portfolio Project on Coursera". This project is an insightful dive into the workings and offerings of a fictional shrub company. Dive in to explore the green world! 🌱🍃
 
 ## 🚀 Project Overview
 
